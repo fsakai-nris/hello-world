@@ -6,7 +6,7 @@ def up_timer(secs):
     for i in range(0,secs):
         print(i)
         sleep(1)
-    print("時間です！")
+    print("時間だ起きろ！")
  
  
 up_timer(target_time)
